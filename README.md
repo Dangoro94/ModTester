@@ -4,7 +4,7 @@ En esta herramienta se han intentado recopilado diferentes herramientas para exp
 
 ##Demo
 ```
-python modTester.py 
+sudo python modTester.py 
 < ModTester >
  ------- 
            ________                    

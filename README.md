@@ -7,12 +7,6 @@ En esta herramienta se han intentado recopilado diferentes herramientas para exp
 python modTester.py 
   _______ 
 <ModTester >
- ------- 
-           ________                    
-|\   /|	      |      ________         
-| \_/ | _  _| |	 __  __  |  __ __      
-|     |/ \/ | | /_  /_   | /_  |_\    
-|     |\_/\_/ | \__ _/   | \__ | \    
 
 
           --=[MODBUS Pentesting Toolkit
@@ -22,6 +16,7 @@ python modTester.py
           --=[github  : www.github.com/dangoro94
  
 ModTester > help
+
  Command  Description                                      
  -------  -----------                                      
  back     Move back from the current context               
